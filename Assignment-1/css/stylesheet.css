@@ -17,18 +17,23 @@ body>div{
     border:2px #970000 solid;
 }
 
-.thing{
+#thing{
     grid-area: thing;
+    background-color: #f1d9fa;
 }
-.action{
+#action{
     grid-area: action;
+    background-color: #d9d9fa;
 }
-.adjective{
+#adjective{
     grid-area: adjective;
+    background-color: #d9fadc;
 }
-.noun{
+#noun{
     grid-area: noun;
+    background-color: #fad9d9;
 }
-.place{
+#place{
     grid-area: place;
+    background-color: #fad9ec;
 }
