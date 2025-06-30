@@ -5,7 +5,7 @@ body{
     "thing action adjective noun place"
     "output output output output output";
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  background-color: #faf0d9;
+  background-color: #e4edf1;
   text-align: center;
   padding: 5px;
 }
